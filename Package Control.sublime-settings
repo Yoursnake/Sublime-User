@@ -9,7 +9,10 @@
 		"AdvancedNewFile",
 		"Anaconda",
 		"Boxy Theme",
+		"Codecs33",
 		"ConvertToUTF8",
-		"MultiEditUtils"
+		"Git",
+		"MultiEditUtils",
+		"Package Control"
 	]
 }
